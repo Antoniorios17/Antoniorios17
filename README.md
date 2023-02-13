@@ -41,7 +41,7 @@
 
 ⚡ Fun facts about me:
 
--I AM A LIFETIME LEARNER**. Technology evolves constantly which means learning new methdologies, tools and languages often.
+-I am a lifetime learner.
     
 -I love swimming and bowling.
     
