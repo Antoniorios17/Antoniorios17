@@ -22,7 +22,7 @@
 🎓 I am currently enrolled in KuraLabs Training Program/Academy for Site Reliability Engineering, DevOps engineering and Cloud Engineering.
  
  
-🏫 Learning automation, Continuous Integration/Continuous Delivery (CI/CD), cloud technology (AWS), DevOps methodology, and Infrastructure as Code.
+🏫 Learning automation, Continuous Integration/Continuous Delivery (CI/CD), SRE, cloud technology (AWS), DevOps methodology, and Infrastructure as Code.
     
     
 🔭 DevOps tools that I am adding to my skillset are: Git, Jenkins, DataDog, Terraform, Docker, Kubernetes, bash and python scrypting.
