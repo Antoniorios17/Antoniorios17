@@ -67,7 +67,7 @@
 <a href="https://tomcat.apache.org//" rel="nofollow"> <img src="https://logos-download.com/wp-content/uploads/2018/09/Apache_Tomcat_Logo.png" alt="Tomcat" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.microsoft.com/en-us/windows-server/" rel="nofollow"> <img src="https://th.bing.com/th/id/OIP.RgVKipwvq6_hS85CotEInAHaE8?pid=ImgDet&rs=1" alt="Windows Server" width="40" height="40" style="max-width: 100%;"> </a>
 
-#[![Antonio Rios's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antoniorios17)](https://github.com/anuraghazra/github-readme-stats)
+[![Antonio Rios's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antoniorios17)](https://github.com/anuraghazra/github-readme-stats)
   
   
       
