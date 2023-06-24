@@ -28,7 +28,7 @@
 🔭 DevOps tools that I am adding to my skillset are: Git, Jenkins, DataDog, Terraform, Docker, Kubernetes, bash and python scripting.
     
     
-👨🏾‍🎓 Certifications: CompTIA A+, CompTIA Network+
+👨🏾‍🎓 Certifications: AWS Cloud Practitioner, CompTIA A+, CompTIA Network+, Google IT Support Professional, Google Data Analytics
    
    
 🎯 My Goal is to gain experience in the DevOps field, support and contribute to as many projects as possible.
