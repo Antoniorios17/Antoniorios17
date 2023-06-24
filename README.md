@@ -4,7 +4,7 @@
     <div align="left" dir="auto">
       
     
-![DevOps](https://itchronicles.com/wp-content/uploads/2020/08/devops-faq-1-1024x557.jpg)
+[DevOps](https://itchronicles.com/wp-content/uploads/2020/08/devops-faq-1-1024x557.jpg)
 
     
 <h3> IT Support Engineer transitioning into DevOps/SRE/Cloud Engineering</h3>
