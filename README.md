@@ -65,7 +65,7 @@
 <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://httpd.apache.org/" rel="nofollow"> <img src="https://th.bing.com/th/id/OIP.rqSPa8LOVqyknHe-4TaKLAHaDu?pid=ImgDet&rs=1" alt="Apache" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://tomcat.apache.org//" rel="nofollow"> <img src="https://logos-download.com/wp-content/uploads/2018/09/Apache_Tomcat_Logo.png" alt="Tomcat" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://www.microsoft.com/en-us/windows-server/" rel="nofollow"> <img src="https://th.bing.com/th/id/OIP.RgVKipwvq6_hS85CotEInAHaE8?pid=ImgDet&rs=1" alt="Windows Server" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.microsoft.com/en-us/windows-server/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Windows_Server_logo.svg" alt="Windows Server" width="40" height="40" style="max-width: 100%;"> </a>
 
 
   
