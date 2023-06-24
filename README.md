@@ -63,9 +63,9 @@
 <a href="https://www.datadoghq.com/" rel="nofollow"> <img src="https://www.betterbuys.com/wp-content/uploads/2019/12/dd_logo_v_rgb.png" alt="Datadog" width="40;" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" rel="nofollow"> <img src="https://camo.githubusercontent.com/42dfd0950d93092d82d677877fe87d5bab1e2acccc1110bf0f9dd755988ccb7e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667" alt="mssql" width="40" height="40" data-canonical-src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="max-width: 100%;"> </a> 
 <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://httpd.apache.org/" rel="nofollow"> <img src="https://th.bing.com/th/id/OIP.rqSPa8LOVqyknHe-4TaKLAHaDu?pid=ImgDet&rs=1" alt="Apache" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://tomcat.apache.org//" rel="nofollow"> <img src="https://logos-download.com/wp-content/uploads/2018/09/Apache_Tomcat_Logo.png" alt="Tomcat" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://www.microsoft.com/en-us/windows-server/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Windows_Server_logo.svg" alt="Windows Server" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://httpd.apache.org/" rel="nofollow"> <img src="https://th.bing.com/th/id/OIP.rqSPa8LOVqyknHe-4TaKLAHaDu?pid=ImgDet&rs=1" alt="Apache" width="80" height="40" style="max-width: 100%;"> </a>
+<a href="https://tomcat.apache.org//" rel="nofollow"> <img src="https://logos-download.com/wp-content/uploads/2018/09/Apache_Tomcat_Logo.png" alt="Tomcat" width="80" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.microsoft.com/en-us/windows-server/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Windows_Server_logo.svg" alt="Windows Server" width="150" height="40" style="max-width: 100%;"> </a>
 
 
   
