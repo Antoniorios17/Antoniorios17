@@ -4,7 +4,7 @@
     <div align="left" dir="auto">
 
     
-<h3> IT Support Engineer transitioning into DevOps/SRE/Cloud Engineering</h3>
+<h3> IT Support Engineer transitioning into DevOps/SRE/Cloud/Platform Engineering</h3>
 <h3 align="left" dir="auto">   
 
 🌍  I live in New York
