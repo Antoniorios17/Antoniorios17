@@ -22,7 +22,7 @@
 🏫 Learning automation, Continuous Integration/Continuous Delivery (CI/CD), SRE, cloud technology (AWS), DevOps methodology, and Infrastructure as Code.
     
     
-🔭 DevOps tools in my skillset are: Git, Jenkins, github actions DataDog, Terraform, Docker, Kubernetes, bash and python scripting.
+🔭 DevOps tools in my skillset are Git, Jenkins, Github actions, DataDog, Terraform, Docker, Kubernetes, Bash and Python scripting.
     
     
 👨🏾‍🎓 Certifications: AWS Cloud Practitioner, CompTIA A+, CompTIA Network+, Google IT Support Professional, Google Data Analytics 👉🏽https://www.credly.com/users/antoniorios17
