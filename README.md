@@ -4,7 +4,7 @@
     <div align="left" dir="auto">
 
     
-<h3> IT Support Engineer transitioning into DevOps/SRE/Cloud/Platform Engineering</h3>
+<h3> DevOps Engineer</h3>
 <h3 align="left" dir="auto">   
 
 🌍  I live in New York
@@ -16,7 +16,7 @@
 💻 I have 3+ years of experience working in Information Technology and infrastructure. Due to my career experience in IT support, system administration and networking, I have set a goal to upskill and enter the DevOps and SRE space. My skillset is transferable to the DevOps Engineer role which makes the transition easier.
 
     
-🎓 I am currently enrolled in KuraLabs Training Program/Academy for Site Reliability Engineering, DevOps engineering and Cloud Engineering.
+🎓 Bachelor of Technology in Computer Engineering.
  
  
 🏫 Learning automation, Continuous Integration/Continuous Delivery (CI/CD), SRE, cloud technology (AWS), DevOps methodology, and Infrastructure as Code.
