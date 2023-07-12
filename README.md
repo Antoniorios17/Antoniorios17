@@ -4,7 +4,7 @@
     <div align="left" dir="auto">
 
     
-<h3> DevOps/Cloud Engineer Engineer</h3>
+<h3> DevOps/Cloud Engineer </h3>
 <h3 align="left" dir="auto">   
 
 🌍  I live in New York
