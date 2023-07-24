@@ -43,7 +43,7 @@
     
 -I love swimming and bowling.
     
--I am a Drummer.
+-I am a Drummer and I love music.
     
 -I bicycled the Death Road in Bolivia .
     
