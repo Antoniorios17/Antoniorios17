@@ -22,10 +22,10 @@
 🏫 Learning automation, Continuous Integration/Continuous Delivery (CI/CD), SRE, cloud technology (AWS), DevOps methodology, and Infrastructure as Code.
     
     
-🔭 DevOps tools in my skillset are Git, Jenkins, Github actions, DataDog, Terraform, Docker, Kubernetes, Bash and Python scripting.
+🔭 DevOps tools in my skillset are Git, Jenkins, GitHub actions, DataDog, Terraform, Docker, Kubernetes, Bash, and Python scripting.
     
     
-👨🏾‍🎓 Certifications: AWS Solutions Architect, Terraform Associate, AWS Cloud Practitioner, CompTIA A+, CompTIA Network+, Google IT Support Professional, Google Data Analytics 👉🏽https://www.credly.com/users/antoniorios17
+👨🏾‍🎓 Certifications: AWS Solutions Architect, Terraform Associate, AWS Cloud Practitioner, CompTIA Security+, CompTIA Network+, CompTIA A+, Google IT Support Professional, Google Data Analytics 👉🏽https://www.credly.com/users/antoniorios17
    
    
 🎯 My Goal is to gain experience in the DevOps field, support and contribute to as many projects as possible.
@@ -45,7 +45,7 @@
     
 - I am a Drummer and I love music.
     
-- I bicycled the Death Road in Bolivia .
+- I bicycled the Death Road in Bolivia.
 
 - My favorite game is Dota 2
     
