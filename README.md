@@ -33,7 +33,7 @@
     
 📄 Take a look at my professional experiences here 👉🏽https://www.linkedin.com/in/antoniorios17/
     
-📄 My Cloud Resume Website: https://www.antoniorios.xyz/   
+📄 My Cloud Resume Project Website: https://www.antoniorios.xyz/   
 
 
 
