@@ -7,13 +7,13 @@
 <h3> I am a Cloud DevOps Engineer </h3>
 <h3 align="left" dir="auto">   
 
-🌍  I live in New York
+🌍  I'm based in New York
   
   
 ✉️  You can contact me at [antonioriosbusiness@gmail.com](antonioriosbusiness@gmail.com) 
   
 
-💻 I have 4+ years of experience working in Information Technology and infrastructure. Due to my career experience in IT support, system administration and networking, I have set a goal to upskill and enter the DevOps and Cloud space. 
+💻 I have 5+ years of experience working in Information Technology and infrastructure. Due to my career experience in IT support, system administration and networking, I have set a goal to upskill and enter the DevOps and Cloud space. 
 
     
 🎓 Bachelor of Technology in Computer Engineering.
