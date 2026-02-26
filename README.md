@@ -66,9 +66,6 @@
 <a href="https://httpd.apache.org/" rel="nofollow"> <img src="https://th.bing.com/th/id/OIP.rqSPa8LOVqyknHe-4TaKLAHaDu?pid=ImgDet&rs=1" alt="Apache" width="80" height="40" style="max-width: 100%;"> </a>
 <a href="https://tomcat.apache.org//" rel="nofollow"> <img src="https://logos-download.com/wp-content/uploads/2018/09/Apache_Tomcat_Logo.png" alt="Tomcat" width="80" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.microsoft.com/en-us/windows-server/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Windows_Server_logo.svg" alt="Windows Server" width="150" height="40" style="max-width: 100%;"> </a>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Antoniorios17&count_private=true&show_icons=true&include_all_commits=true)
-  
   
       
     
