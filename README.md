@@ -14,7 +14,7 @@
 ✉️  You can contact me at [antonioriosbusiness@gmail.com](antonioriosbusiness@gmail.com) 
   
 
-💻 I have 5+ years of experience working in Information Technology and infrastructure. Due to my career experience in IT support, system administration and networking, I have set a goal to upskill and enter the DevOps and Cloud space. 
+💻 I have 7+ years of experience working in Information Technology and infrastructure. Due to my career experience in IT support, system administration and networking, I have set a goal to upskill and enter the DevOps and Cloud space. 
 
     
 🎓 Bachelor of Technology in Computer Engineering.
